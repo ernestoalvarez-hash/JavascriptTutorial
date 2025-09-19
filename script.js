@@ -1,1 +1,3 @@
-alert("Hola mundo!!")
+let palabra;
+palabra = "hola mundo!!";
+alert(palabra);
